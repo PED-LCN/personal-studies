@@ -1,4 +1,4 @@
 package cadeiras;
 
-public class fisica {
+public class Fisica {
 }

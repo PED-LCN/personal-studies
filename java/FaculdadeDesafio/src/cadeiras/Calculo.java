@@ -1,4 +1,4 @@
 package cadeiras;
 
-public class calculo {
+public class Calculo {
 }

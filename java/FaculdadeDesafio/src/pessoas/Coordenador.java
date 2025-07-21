@@ -1,4 +1,4 @@
 package pessoas;
 
-public class coordenador {
+public class Coordenador {
 }

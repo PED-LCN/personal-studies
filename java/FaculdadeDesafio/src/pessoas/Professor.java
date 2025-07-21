@@ -1,4 +1,4 @@
 package pessoas;
 
-public class professor {
+public class Professor {
 }

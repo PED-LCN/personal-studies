@@ -1,4 +1,4 @@
 package cadeiras;
 
-public class discreta {
+public class Discreta {
 }
