@@ -1,4 +1,4 @@
-package Fundamentos;
+package fundamentos;
 
 public class NotacaoPonto {
 
