@@ -12,8 +12,8 @@ public class DataTeste {
         d2.mes = 9;
         d2.ano = 2023;
 
-        System.out.printf("A data é : %d/%d/%d \n", hoje.dia, hoje.mes, hoje.ano);
-        System.out.printf("A data é : %d/%d/%d \n", d2.dia, d2.mes, d2.ano);
+        System.out.printf(hoje.obterDataFormatada());
+        System.out.printf(d2.obterDataFormatada());
 
 
     }
