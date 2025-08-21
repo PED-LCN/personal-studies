@@ -12,9 +12,11 @@ public class DataTeste {
         d2.mes = 9;
         d2.ano = 2023;
 
-        System.out.printf(hoje.obterDataFormatada());
-        System.out.printf(d2.obterDataFormatada());
+        String dataFormatadaHoje = hoje.obterDataFormatada();
 
+        System.out.println(dataFormatadaHoje);
+        System.out.println(d2.obterDataFormatada());
 
+        hoje.imprimirDataFormatada();
     }
 }
