@@ -8,7 +8,7 @@ public class Data {
     Data(){
         dia = 1;
         mes = 1;
-        ano = 197;
+        ano = 1997;
     }
 
     Data(int diaNew, int mesNew, int anoNew){
